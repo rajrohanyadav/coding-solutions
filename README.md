@@ -1,5 +1,5 @@
 # Coding Solutions
-This repo contains solutions to programming questions in Java, C++(not anymore), Python. It can serve as a reference to people who are trying to solve programming questions.
+This repo contains solutions to programming questions in Java, C++(not anymore), Go, Python. It can serve as a reference to people who are trying to solve programming questions.
 
 ## Contribute
 Please feel free to fork the repo, but it is for our study group only. So, we won't accept any PRs as we need to practice questions ourselves.
